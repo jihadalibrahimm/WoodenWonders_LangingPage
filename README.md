@@ -1,3 +1,7 @@
+
+## Live preview 
+[ClickHere](https://jihadalibrahimm.github.io/WoodenWonders_LangingPage/)
+
 # WoodenWonders_LangingPage
 FurniCraft is a simple HTML and CSS project focused on building a website to showcase furniture items. It serves as a platform to test and enhance HTML and CSS skills while creating an appealing and functional interface for displaying furniture products.
 
@@ -6,6 +10,3 @@ FurniCraft was created as a personal project to practice HTML and CSS skills whi
 
 ## Developer
 FurniCraft was developed by [Jihad Alibrahim] as a test project for improving HTML and CSS skills.
-
-## Live preview 
-[ClickHere](https://jihado-i.github.io/WoodenWonders_LangingPage/)
